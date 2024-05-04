@@ -4,7 +4,14 @@ table{
 	border:2px solid black;
 	border-radius:20px;
 }
-.heading thead th{
+ th{
 	background-color:blue;
 	color:white;
+	text-align:left;
 }
+td{
+	background-color:blue;
+	color:white;
+	text-align:left;
+}
+
