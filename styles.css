@@ -1,17 +1,17 @@
-/* your code */
-table{
-	width:100%;
-	border:2px solid black;
-	border-radius:20px;
+.al
+{
+	background-color:pink;
 }
- th{
-	background-color:blue;
-	color:white;
-	text-align:left;
+.table
+{
+	border-radius:2%;
+	border-collapse:collapse;
+	margin-left:20%;
+	margin-top:20%;
+	
 }
-td{
-	background-color:blue;
-	color:white;
-	text-align:left;
+th,td
+{
+	padding:10px;
 }
-
+padding:20px;
